@@ -3,10 +3,10 @@
 ## TEAM GEEKS ARENA 
 ### MEMBERS
 <ul>
-<li>Aditya Singh[Github](https://pages.github.com/AD1YA03)</li>
-<li>Ankit kushwaha [Github](https://pages.github.com/kush-ankit)</li>
-<li>Aditya Verma[Github](https://pages.github.com/greatversion)</li>
-<li>Divyansh Srivastav[Github](https://pages.github.com/)</li>
+<li>Aditya Singh    [Github](https://pages.github.com/AD1YA03)</li>
+<li>Ankit kushwaha  [Github](https://pages.github.com/kush-ankit)</li>
+<li>Aditya Verma.   [Github](https://pages.github.com/greatversion)</li>
+<li>Divyansh Srivastav.    [Github](https://pages.github.com/)</li>
 </ul>
 
 ## PROBLEM STATEMENT
