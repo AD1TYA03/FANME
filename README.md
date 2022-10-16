@@ -50,4 +50,7 @@ So This Process Will be done in following Steps.
 <img width="200" alt="flutter img" src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png">
 <img width="200" alt="flutter img" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Firebase_Logo.png">
 
+## Alternative Apporach
+> As after the upade of android 9 , it restricted controlling other apps through flutter.
 
+>So in that case We have to shift to Native Development , i.e through java or kotlin.
