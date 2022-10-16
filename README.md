@@ -24,3 +24,17 @@ So our Team `Geeks Arena` Taking `Digital Wellbeing` one step ahead.
 <img width="281" alt="Screenshot 2022-10-15 at 11 19 53 AM" src="https://user-images.githubusercontent.com/90272291/195973159-9175042b-f44b-4d89-a391-b2f097ea7543.png">
 <img width="280" alt="Screenshot 2022-10-15 at 11 20 04 AM" src="https://user-images.githubusercontent.com/90272291/195973166-8f3f7382-2402-4915-948e-7034288b0cdb.png">
 <img width="280" alt="Screenshot 2022-10-15 at 11 20 15 AM" src="https://user-images.githubusercontent.com/90272291/195973177-bcf108ae-ef5c-428f-b5ef-cc15fd7b9acb.png">
+
+>Ones the Person Click on add task , He can select the apps he want to lock
+
+>Then he can Add task For which he is locking these Apps
+
+>Random App Lock Password will be generated , and stored at backend.
+>Passwords are only Accessable , When the user Completes The Task he assigned himself with.
+
+Now How we detect Weather He/She Did complete the task or not.
+So This Process Will be done in following Steps.
+>1. User Will Upload The proff of his work being completed.
+>2. His community members will verify this eigher voting Yes or No
+>3. Once there are more than 50% Yes vote , The Password Will be Rendered to the Person,
+>4. and As a reward Now he can access these Apps.
