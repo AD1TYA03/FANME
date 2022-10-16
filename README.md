@@ -1,6 +1,6 @@
 # Hackout2022
 
-## TEAM HACKS ARENA 
+## TEAM GEEKS ARENA 
 ### MEMBERS
 <ul>
 <li>Aditya Singh[Github](https://pages.github.com/AD1YA03)</li>
